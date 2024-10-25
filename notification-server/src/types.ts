@@ -1,0 +1,6 @@
+export enum NotificationState {
+  UNREAD = "UNREAD",
+  VIEWED = "VIEWED",
+  DISMISSED = "DISMISSED",
+  AUTODISMISSED = "AUTODISMISSED",
+}
