@@ -1,4 +1,4 @@
-# Sample Notification Service
+# Notification Service
 
 ### Prisma Setup
 
